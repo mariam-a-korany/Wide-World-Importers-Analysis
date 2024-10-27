@@ -46,18 +46,17 @@ The primary goal was to derive actionable insights from sales and inventory data
 
 ## Methodology
 
-- **SQL**: Used to explore the database, identifying and addressing null values in each schema. Relevant SQL queries can be found [here](./SQL/data_cleaning_queries.sql).
-- **Python**: Applied for data cleaning, including deduplication, parsing JSON columns, and extracting missing attributes like color information from stock item names. Python scripts are available in the [Python folder](./Python/data_cleaning.ipynb).
-- **Data Analysis Techniques**: Assessed and visualized the data to identify business trends and provide actionable recommendations.
+- **SQL**: Used to explore the database, identifying and addressing null values in each schema and parsing JSON columns. Relevant SQL queries can be found [here](SQL_Queries.sql).
+- **Python**: Applied for data cleaning, including deduplication, and extracting missing attributes like color information from stock item names. Python scripts are available [here](Python_PreprocessingandConnectingSQLServer.ipynb).
+- **Power BI**: Utilized for visualization by importing both SQL queries or tables and Python code.
 
 ---
 
 ## Project Files
 
-- **[SQL Queries](./SQL)**: Contains SQL queries for data cleaning, analysis, and reporting.
-- **[Python Notebooks](./Python)**: Jupyter notebooks and Python scripts used for data exploration and cleaning.
+- **[SQL Queries](SQL_Queries.sql)**
+- **[Python Notebooks](Python_PreprocessingandConnectingSQLServer.ipynb)**
 - **[Images](./Images)**: Visual representations of analysis findings.
-- **[Project Presentation](./Documents/Wide_World_Importers_Analysis_Presentation.pptx)**: Full presentation of the project findings and recommendations.
 
 ---
 
