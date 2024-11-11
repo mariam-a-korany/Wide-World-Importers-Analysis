@@ -52,6 +52,28 @@ The primary goal was to derive actionable insights from sales and inventory data
 
 ---
 
+## Dashboard Images
+
+* Sales
+![](https://github.com/mariam-a-korany/Wide-World-Importers-Analysis/blob/0fd8a627b1d7d973326766c4a3acd22d30136fa6/Images/1-%20Sales.png)
+
+* Sales Analysis
+![](https://github.com/mariam-a-korany/Wide-World-Importers-Analysis/blob/0fd8a627b1d7d973326766c4a3acd22d30136fa6/Images/2-%20Sales%20Analysis.png)
+
+* StockItems
+![](https://github.com/mariam-a-korany/Wide-World-Importers-Analysis/blob/0fd8a627b1d7d973326766c4a3acd22d30136fa6/Images/3-%20StockItems.png)
+
+* StockItems2
+![](https://github.com/mariam-a-korany/Wide-World-Importers-Analysis/blob/0fd8a627b1d7d973326766c4a3acd22d30136fa6/Images/4-%20StockItems2.png)
+
+* Orders
+![](https://github.com/mariam-a-korany/Wide-World-Importers-Analysis/blob/0fd8a627b1d7d973326766c4a3acd22d30136fa6/Images/5-%20Orders.png)
+
+* Customers
+![](https://github.com/mariam-a-korany/Wide-World-Importers-Analysis/blob/0fd8a627b1d7d973326766c4a3acd22d30136fa6/Images/6-%20Customers.png)
+
+---
+
 ## Project Files
 
 - **[SQL Queries](SQL_Queries.sql)**
