@@ -1,6 +1,5 @@
 # Wide World Importers Analysis
 
-**By Mariam A. Korany**
 
 ---
 
